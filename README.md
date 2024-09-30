@@ -1,1 +1,1 @@
-# diDiscrete-Structures-and-Logic
+# Discrete-Structures-and-Logic
